@@ -1,6 +1,6 @@
 [project]
 name = "sol_calc"
-version = "0.2.0"
+version = "0.2.1"
 description = "Default template for PDM package"
 authors = [
     {name = "j25ng", email = "jsan2861@gmail.com"},

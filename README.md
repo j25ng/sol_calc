@@ -3,7 +3,7 @@
 ## Intro
 simple calcaulator
 
-<img src="./img/test_sol_calc.png">
+<img src="/home/j25ng/code/sol/sol_calc/img/test_sol_calc.png">
 
 ## Usage
 ### Install
