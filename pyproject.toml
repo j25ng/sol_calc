@@ -7,7 +7,7 @@ authors = [
 ]
 dependencies = ["sol_add>=0.1.0", "sol_mul>=0.1.0", "sol_div>=0.1.0"]
 
-requires-python = "==3.11.*"
+requires-python = ">=3.11.*"
 readme = "README.md"
 license = {text = "MIT"}
 
@@ -15,9 +15,9 @@ license = {text = "MIT"}
 distribution = true 
 
 [project.scripts]
-sol-add = 'sol_calc.calc:a'
-sol-mul = 'sol_calc.calc:m'
-sol-div = 'sol_calc.calc:d'
+sol-add = "sol_calc.calc:a"
+sol-mul = "sol_calc.calc:m"
+sol-div = "sol_calc.calc:d"
 
 [project.urls]
-#Homepage = "
+Homepage = "https://github.com/j25ng/sol_calc"
