@@ -1,16 +1,16 @@
 # sol_calc
 
-## intro
+## Intro
 simple calcaulator
 
-<img src="./img/test_sol_calc">
+<img src="./img/test_sol_calc,.png">
 
 ## Usage
-### install
+### Install
 ```
 $ pip install sol_calc
 ```
-### python code
+### Python code
 ```python
 from sol_add.add import add
 from sol_mul.mul import mul
@@ -29,7 +29,7 @@ def m():
 def d():
     div(x, y)
 ```
-### add pyproject.toml option
+### Add pyproject.toml option
 ```
 dependencies = ["sol_add>=0.1.0", "sol_mul>=0.1.0", "sol_div>=0.1.0"]
 
@@ -37,4 +37,10 @@ dependencies = ["sol_add>=0.1.0", "sol_mul>=0.1.0", "sol_div>=0.1.0"]
 sol-add = "sol_calc.calc:a"
 sol-mul = "sol_calc.calc:m"
 sol-div = "sol_calc.calc:d"
+```
+### References
+```
+- add : https://github.com/j25ng/sol_add
+- mul : https://github.com/j25ng/sol_mul
+- div : https://github.com/j25ng/sol_div
 ```
