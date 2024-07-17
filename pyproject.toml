@@ -7,7 +7,7 @@ authors = [
 ]
 dependencies = ["sol_add>=0.1.0", "sol_mul>=0.1.0", "sol_div>=0.1.0"]
 
-requires-python = ">=3.11.*"
+requires-python = "==3.11.*"
 readme = "README.md"
 license = {text = "MIT"}
 
