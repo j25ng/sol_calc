@@ -3,7 +3,7 @@
 ## Intro
 simple calcaulator
 
-<img src="./img/test_sol_calc,.png">
+<img src="./img/test_sol_calc.png">
 
 ## Usage
 ### Install
@@ -39,8 +39,6 @@ sol-mul = "sol_calc.calc:m"
 sol-div = "sol_calc.calc:d"
 ```
 ### References
-```
 - add : https://github.com/j25ng/sol_add
 - mul : https://github.com/j25ng/sol_mul
 - div : https://github.com/j25ng/sol_div
-```
