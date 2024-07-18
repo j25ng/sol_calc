@@ -3,6 +3,7 @@
 ## Intro
 simple calcaulator
 
+![img](https://github.com/j25ng/sol_calc/blob/main/img/test_sol_calc.png?raw=true)
 
 ## Usage
 ### Install
